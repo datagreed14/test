@@ -1,5 +1,7 @@
 This is the GIT repository for Azure CI/CD - Datagreed14
 
+a = 10
 b =35
 
 Version1 - Direct changes in Github.com
+
